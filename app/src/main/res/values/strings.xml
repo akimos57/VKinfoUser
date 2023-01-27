@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VKInfoUser</string>
+    <string name="id">Введите ID Вконтакте</string>
+    <string name="search">Найти</string>
+    <string name="result">Ваш результат</string>
+    <string name="error_message">Произошла ошибка, попробуйте снова</string>
+</resources>
